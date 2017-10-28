@@ -1,0 +1,26 @@
+{
+  "name": "conversation",
+  "version": "1.0.0",
+  "description": "Bot Whatson",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.2",
+    "lime-transport-websocket": "^2.0.2",
+    "messaginghub-client": "^3.4.1",
+    "mysql": "^2.15.0",
+    "watson-developer-cloud": "^2.41.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "whatson",
+    "conversation",
+    "node",
+    "robo",
+    "lancamentosrj"
+  ],
+  "author": "Italo Lyra",
+  "license": "ISC"
+}
